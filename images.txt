@@ -5,5 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #pytorch/pytorch:2.2.2-cuda11.8-cudnn8-devel
 # registry.cn-hangzhou.aliyuncs.com/adpc/
-golang:1.22.5
-ubuntu:latest
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3
