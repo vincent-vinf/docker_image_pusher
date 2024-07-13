@@ -4,5 +4,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #pytorch/pytorch:2.2.2-cuda11.8-cudnn8-devel
-# registry.cn-hangzhou.aliyuncs.com/adpc/
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+# registry.cn-hangzhou.aliyuncs.com/adpc/elasticsearch:8.11.3
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
+docker.io/redis:6.2-alpine
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
