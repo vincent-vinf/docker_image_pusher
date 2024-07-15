@@ -5,7 +5,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #pytorch/pytorch:2.2.2-cuda11.8-cudnn8-devel
 # registry.cn-hangzhou.aliyuncs.com/adpc/elasticsearch:8.11.3
-ghcr.io/immich-app/immich-server:release
-ghcr.io/immich-app/immich-machine-learning:release
-docker.io/redis:6.2-alpine
-docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
+us-docker.pkg.dev/fairwinds-ops/oss/goldilocks:v4.10.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230312-helm-chart-4.5.2-28-g66a760794
+registry.k8s.io/autoscaling/vpa-recommender:0.14.0
+registry.k8s.io/autoscaling/vpa-admission-controller:0.14.0
