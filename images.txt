@@ -5,4 +5,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #pytorch/pytorch:2.2.2-cuda11.8-cudnn8-devel
 # registry.cn-hangzhou.aliyuncs.com/adpc/elasticsearch:8.11.3
-bitnami/kubectl:latest
+#bitnami/kubectl:latest
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
